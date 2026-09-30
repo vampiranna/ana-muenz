@@ -1,0 +1,25 @@
+# Publish only the explicit site files. Do not initialize Git in the parent folder.
+/*
+!/index.html
+!/styles.css
+!/script.js
+!/README.md
+!/CONTENT-SOURCES.md
+!/.gitignore
+!/.nojekyll
+!/assets/
+/assets/*
+!/assets/*.webp
+!/assets/favicon.svg
+!/assets/fonts/
+/assets/fonts/*
+!/assets/fonts/*.woff2
+!/assets/fonts/*-OFL.txt
+!/assets/fonts/*-LICENSE.txt
+!/assets/fonts/*-FONTLOG.txt
+
+# Credentials remain ignored anywhere in this tree.
+.env
+.env.*
+*.pem
+*.key
