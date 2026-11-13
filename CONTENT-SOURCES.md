@@ -7,7 +7,7 @@ The owner explicitly authorized publication of content present in her Notion por
 - Portfolio and public contact links: https://app.notion.com/p/e3943d247abb43fdaa76b61b767555dd
 - AI Cockpit: https://app.notion.com/p/24cbcba204d980fcbc38e72da7471519
 - Atma: https://app.notion.com/p/24cbcba204d9807f9811c0f9e627fbb1
-- Public résumé link, referenced from Notion: https://docs.google.com/document/d/1glRdn-dIxfF-ikqVXTCC-SGAhHQdLE3Qkt8iivSy1Yk/edit?tab=t.0
+- Current résumé link, supplied by the owner (2026-11-13): https://docs.google.com/document/d/1ByFADDpNXxPWxjwphHqFN80mfagXe7Vp/edit?usp=sharing&ouid=113572175216744421074&rtpof=true&sd=true
 
 ## Owner-confirmed corrections
 
